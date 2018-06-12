@@ -1,2 +1,2 @@
-# Contrast
-Contrast algorithms in python with OpenCV 3.3
+# Darkening
+Darkening algorithms in python with OpenCV 3.3
